@@ -4,4 +4,4 @@
 
 # Final result:
 
-<img width="556" alt="Screenshot 2025-01-13 at 23 40 47" src="https://github.com/user-attachments/assets/e737b599-7c7f-46cb-8049-4987421423b4" />
+<img width="590" alt="Screenshot 2025-01-13 at 23 42 23" src="https://github.com/user-attachments/assets/3672fc41-40a4-44a2-b4bb-6f2338d2d686" />
